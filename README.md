@@ -32,13 +32,6 @@ Este proyecto es una aplicación web simple para organizar un juego del **amigo 
 
 ---
 
-## 📂 Estructura del proyecto
-amigo-secreto/
-│
-├── index.html         # Página principal con la interfaz del juego
-├── app.js             # Lógica en JavaScript para agregar y sortear amigos
-├── style.css          # (Opcional) Estilos para mejorar la presentación
-└── README.md          # Documentación del proyecto
 
 ## 📬 Contacto
 
